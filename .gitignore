@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 데이터 파일
+data/raw/*.csv
+data/raw/*.xlsx
+
+# VSCode 설정
+.vscode/
+
+# 맥 시스템 파일
+.DS_Store
+**/.DS_Store
